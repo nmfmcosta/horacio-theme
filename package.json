@@ -3,9 +3,9 @@
   "displayName": "Horacio Theme",
   "description": "Simple dark theme based on Atom One Dark Theme and vscode chester atom",
   "publisher": "NunoCosta",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "engines": {
-    "vscode": "^1.81.0"
+    "vscode": "^1.0.0"
   },
   "icon" : "icons/icon.png",
   "categories": [
